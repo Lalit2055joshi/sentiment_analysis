@@ -1,0 +1,9 @@
+emoji
+indic-nlp-library
+unidecode
+nltk
+pandas
+scikit-learn
+textblob
+streamlit
+joblib
