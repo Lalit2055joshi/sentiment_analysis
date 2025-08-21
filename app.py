@@ -7,7 +7,7 @@ import os
 # ------------------------------
 # Load vectorizer and models
 # ------------------------------
-MODEL_PATH = r".\models"
+MODEL_PATH = "./models"
 
 VECTORIZER_PATH = os.path.join(MODEL_PATH, "tfidf_vectorizer.pkl")
 
