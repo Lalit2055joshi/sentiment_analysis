@@ -7,7 +7,7 @@ import os
 # ------------------------------
 # Load vectorizer and models
 # ------------------------------
-MODEL_PATH = r"C:\Users\Nisha\Desktop\niranjan_sir_inference_code\models"
+MODEL_PATH = r"C:\Users\Nisha\Desktop\telecom_sentiment_inference_code\models"
 
 VECTORIZER_PATH = os.path.join(MODEL_PATH, "tfidf_vectorizer.pkl")
 
