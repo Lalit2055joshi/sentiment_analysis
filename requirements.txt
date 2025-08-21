@@ -8,3 +8,4 @@ textblob
 streamlit
 joblib
 matplotlib
+seaborn
